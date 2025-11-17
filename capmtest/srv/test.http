@@ -1,0 +1,108 @@
+####
+GET http://localhost:4004/odata/v4/emp/
+
+####
+GET http://localhost:4004/odata/v4/emp/$metadata
+
+####
+GET http://localhost:4004/odata/v4/emp/employee
+
+
+####
+GET http://localhost:4004/odata/v4/emp/employee?$filter=startswith(nameFirst,'S')
+
+####
+GET http://localhost:4004/odata/v4/emp/employee?$orderby=salaryAmount desc&$top=2
+
+####
+POST http://localhost:4004/odata/v4/emp/employee
+Content-Type: application/json
+
+{
+  "salaryAmount": 120,
+  "Currency_code": "USD"
+}
+
+
+
+####
+POST http://localhost:4004/odata/v4/emp/employee
+Content-Type: application/json
+
+{
+  "salaryAmount": 5000001,
+  "Currency_code": "USD"
+}
+
+####
+POST http://localhost:4004/odata/v4/emp/employee
+Content-Type: application/json
+
+{
+  "salaryAmount": 111,
+  "Currency_code": "EUR"
+}
+
+####
+PATCH http://localhost:4004/odata/v4/emp/employee/43fd4ab9-e950-4a31-8882-23465294608b
+Content-Type: application/json
+
+{
+      "ID": "43fd4ab9-e950-4a31-8882-23465294608b",
+      "nameFirst": "Richard",
+      "nameMiddle": "Andrew",
+      "nameLast": "Fisher",
+      "nameInitials": null,
+      "Gender": "M",
+      "Language": "H",
+      "phoneNumber": null,
+      "Email": "fisher.richard@itelo.info",
+      "loginName": "FISHERRI",
+      "Currency_code": "EUR",
+      "salaryAmount": 67234,
+      "accountNumber": "567890123",
+      "bankId": "99999888",
+      "bankName": "Deutsches Geldinstitut"
+}
+
+####
+PATCH http://localhost:4004/odata/v4/emp/employee/43fd4ab9-e950-4a31-8882-23465294608b
+Content-Type: application/json
+
+{
+      "ID": "43fd4ab9-e950-4a31-8882-23465294608b",
+      "nameFirst": "Richard",
+      "nameMiddle": "Andrew",
+      "nameLast": "Fisher",
+      "nameInitials": null,
+      "Gender": "M",
+      "Language": "H",
+      "phoneNumber": null,
+      "Email": "fisher.richard@itelo.info",
+      "loginName": "HGFDDJ",
+      "Currency_code": "EUR",
+      "salaryAmount": 67234,
+      "accountNumber": "567890123",
+      "bankId": "99999888",
+      "bankName": "Deutsches Geldinstitut"
+}
+
+
+####
+DELETE http://localhost:38295/odata/v4/emp/employee/d8f0cb3e-b9aa-4d54-bb90-6ef50cc093db
+
+
+
+####
+DELETE http://localhost:4004/odata/v4/emp/employee/b59577e7-ea4d-46ec-a0d1-afd40c4a8b6b
+
+
+
+
+
+
+
+
+
+
+

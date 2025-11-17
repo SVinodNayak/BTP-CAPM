@@ -1,0 +1,7 @@
+MaterialID,MaterialCode,MaterialDesc,UOM,MaterialType,StorageLocation,Status
+2001,MAT-ROD-16MM,Steel Rod 16mm,KG,Raw Material,TG01,Active
+2002,MAT-BOLT-M8,Bolt M8 SS,EA,Raw Material,TG01,Active
+2003,MAT-WIRE-ALU,Aluminium Wire,KG,Raw Material,TG02,Active
+2004,MAT-GASKET-01,Rubber Gasket 01,EA,Spare,TG03,Active
+2005,MAT-OIL-HYD,Hydraulic Oil,LTR,Consumable,TG02,Active
+2006,MAT-PAINT-WH,White Paint,LTR,Consumable,TG01,Active

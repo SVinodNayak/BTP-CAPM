@@ -1,0 +1,16 @@
+
+ 
+####
+GET http://localhost:4004/odata/v4/events/Orders 
+
+####
+POST http://localhost:4004/odata/v4/events/Orders 
+Content-Type: application/json
+
+{
+    "ID":1,
+    "item":"dwd",
+    "qty":2,
+    "price":23
+}
+ 

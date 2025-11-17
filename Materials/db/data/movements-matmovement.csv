@@ -1,0 +1,7 @@
+MovementID,MaterialID,MovementType,Plant,RefDocType,UserID,Remarks
+7001,2001,Issue,IN01,COST-CENTER,MFG001,Issued to production
+7002,2002,Receipt,IN01,PURCHASE,GR001,Vendor delivery received
+7003,2005,Issue,IN02,MAINTENANCE,MN001,Used for machine servicing
+7004,2004,Receipt,IN03,PURCHASE,GR002,Spare parts stock updated
+7005,2003,Transfer,IN01,IN02,TR001,Moved to plant IN02
+7006,2006,Issue,IN03,COST-CENTER,MFG002,Paint issued for line 3

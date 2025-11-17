@@ -1,0 +1,7 @@
+POID;VendorID;POType;Plant;POStatus;CreatedBy;Remarks
+5001;101;Standard;IN01;Approved;EMP001;Delivered to warehouse
+5002;102;Standard;IN02;In-Progress;EMP002;Awaiting vendor confirmation
+5003;104;Subcontracting;IN07;Approved;EMP003;QC pending
+5004;105;Consignment;IN03;Rejected;EMP004;Price mismatch
+5005;103;Standard;IN01;In-Progress;EMP002;Vendor asked delivery extension
+5006;106;Standard;IN05;Approved;EMP006;Goods received and inspected

@@ -1,0 +1,31 @@
+####
+GET http://localhost:4004/odata/v4/student/Students
+
+####
+POST http://localhost:4004/odata/v4/student/Students
+Content-Type: application/json
+
+  {
+    
+    "Name": "Pranav",
+    "Course": "BTP",
+    "Score": 95,
+    "validFrom": "2025-01-01T09:00:00Z",
+    "validTo":"2026-01-01T09:00:00Z"
+  }
+
+####
+
+POST http://localhost:4004/odata/v4/student/Students
+Content-Type: application/json
+
+  {
+    "StudentID": 4,
+    "Name": "Satwik",
+    "Course": "CAPM",
+    "Score": 100
+  }
+
+####
+
+DELETE http://localhost:4004/odata/v4/student/Students(StudentID=1)

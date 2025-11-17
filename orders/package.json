@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@sap/cds": "^9.4.4",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "capm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cap-js/sqlite": "^2.0.4"
+  }
+}

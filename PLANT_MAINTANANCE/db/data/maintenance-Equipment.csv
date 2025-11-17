@@ -1,0 +1,6 @@
+EquipID,Description,Plant,Status
+EQ-100001,Filling Line 1 - PET Bottles,IN01,ACTIVE
+EQ-100002,Shrink Wrap Machine,IN01,ACTIVE
+EQ-200001,Boiler Unit,IN02,ACTIVE
+EQ-300001,Conveyor Belt A,IN03,MAINT
+EQ-300002,Labeling Machine,IN03,ACTIVE
