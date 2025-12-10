@@ -1,0 +1,6 @@
+gr_id,gr_number,gr_po,gr_date,gr_stor_loc,gr_status,gr_item_receivedquan,createdAt,createdBy,modifiedAt,modifiedBy
+GRH-001,GR-10001,PO-001,2025-01-12,ST01,Posted,120,2025-01-12 09:10:22,vinod,2025-01-12 09:10:22,vinod
+GRH-002,GR-10002,PO-002,2025-01-14,ST02,Partially Posted,80,2025-01-14 11:30:10,admin,2025-01-14 11:45:00,admin
+GRH-003,GR-10003,PO-003,2025-01-18,ST03,Posted,300,2025-01-18 15:05:55,vinod,2025-01-18 15:05:55,vinod
+GRH-004,GR-10004,PO-004,2025-01-22,ST01,Pending,0,2025-01-22 08:50:33,system,2025-01-22 09:00:00,system
+GRH-005,GR-10005,PO-005,2025-01-25,ST02,Posted,220,2025-01-25 17:40:12,vinod,2025-01-25 17:40:12,vinod

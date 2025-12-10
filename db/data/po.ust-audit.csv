@@ -1,0 +1,6 @@
+error_id,ID,error_status,audit_status,audit_log_createdAt,audit_log_createdBy,audit_log_modifiedAt,audit_log_modifiedBy,audit_log_audit,audit_log_auditat,audit_log_verifiedby,audit_log_verifiedat,audit_log_approvedby,audit_log_approvedat,createdAt,createdBy,modifiedAt,modifiedBy
+AERR-1001,1,404,UnChanged,2025-01-01 09:15:22,system,2025-01-01 09:15:22,system,ERR01,2025-01-01 09:15:22,QA-User1,2025-01-01 10:00:10,Manager1,2025-01-01 10:30:55,2025-01-01 09:15:22,system,2025-01-01 09:15:22,system
+AERR-1002,2,500,Updated,2025-01-05 11:40:12,system,2025-01-05 12:00:20,system,ERR02,2025-01-05 11:40:12,QA-User2,2025-01-05 12:15:44,Manager2,2025-01-05 12:40:30,2025-01-05 11:40:12,system,2025-01-05 12:00:20,system
+AERR-1003,3,403,UnChanged,2025-01-10 14:25:08,system,2025-01-10 14:25:08,system,ERR03,2025-01-10 14:25:08,QA-User3,2025-01-10 15:05:00,Manager3,2025-01-10 15:30:20,2025-01-10 14:25:08,system,2025-01-10 14:25:08,system
+AERR-1004,4,401,Reviewed,2025-01-13 08:05:55,system,2025-01-13 08:30:32,system,ERR04,2025-01-13 08:05:55,QA-User4,2025-01-13 09:00:10,Manager4,2025-01-13 09:25:44,2025-01-13 08:05:55,system,2025-01-13 08:30:32,system
+AERR-1005,5,409,Corrected,2025-01-18 16:42:12,system,2025-01-18 17:00:45,system,ERR05,2025-01-18 16:42:12,QA-User5,2025-01-18 17:10:50,Manager5,2025-01-18 17:35:15,2025-01-18 16:42:12,system,2025-01-18 17:00:45,system

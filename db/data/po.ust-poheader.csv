@@ -1,0 +1,6 @@
+po_id,po_vm_id,po_number,vendor,po_coco,po_org,po_curr_cuky,po_doc_date,po_delivery_date,po_payment_terms_vendor,po_toatl_value,po_status,po_remarks,po_approved_po_approvedby,po_approved_po_approvedat
+1,1,PO1001,ABC Traders,CC01,ORG01,INR,2025-01-10,2025-01-20,Net 30,150000,Submitted,Urgent delivery required,MANAGER,2025-01-11T10:30:00
+2,2,PO1002,Global Steels,CC01,ORG01,INR,2025-01-12,2025-01-25,Net 15,90000,Draft,Standard PO,, 
+3,1,PO1003,ABC Traders,CC01,ORG01,INR,2025-01-15,2025-01-28,Net 45,120000,Approved,High priority order,SUPERVISOR,2025-01-16T14:20:00
+4,2,PO1004,Global Steels,CC02,ORG02,INR,2025-01-18,2025-02-05,Net 30,200000,Submitted,Large quantity order,MANAGER,2025-01-19T09:45:00
+5,1,PO1005,ABC Traders,CC01,ORG01,INR,2025-01-20,2025-02-01,Net 15,80000,Closed,Completed delivery,SUPERVISOR,2025-01-22T11:15:00

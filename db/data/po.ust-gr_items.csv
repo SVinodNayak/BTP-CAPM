@@ -1,0 +1,6 @@
+gr_item_id,gr_item_ref_id,gr_item_poitem,gr_item_uom_uom,gr_item_batchno,gr_item_remarks,createdAt,createdBy,modifiedAt,modifiedBy
+GRI-001,GRH-001,POITEM-001,PCS,BATCH-AX12,Received in good condition,2025-01-12 09:12:10,vinod,2025-01-12 09:12:10,vinod
+GRI-002,GRH-001,POITEM-002,KG,BATCH-KG77,Minor packaging damage,2025-01-12 09:13:45,vinod,2025-01-12 09:15:00,vinod
+GRI-003,GRH-002,POITEM-003,LTR,BATCH-LT55,Partially received,2025-01-14 11:32:00,admin,2025-01-14 11:50:30,admin
+GRI-004,GRH-003,POITEM-004,PCS,BATCH-PX90,Received fully,2025-01-18 15:07:20,vinod,2025-01-18 15:07:20,vinod
+GRI-005,GRH-005,POITEM-005,KG,BATCH-KG90,Quality checked & accepted,2025-01-25 17:42:10,vinod,2025-01-25 17:42:10,vinod

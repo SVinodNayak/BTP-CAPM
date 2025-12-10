@@ -1,0 +1,6 @@
+po_id,po_mm_id,po_item_id,ID,po_lineitem_number,po_item_materials,po_item_materialdesc,po_item_quan_order_quan,po_item_uom_uom,po_item_netprice,po_item_discount,po_item_gst,po_item_recevied_qty,po_item_open_quan,po_item_Status,createdAt,createdBy,modifiedAt,modifiedBy
+1,1,1,101,10,MAT001,Steel Rod 8mm,500,KG,120,0,18,200,300,Open,2025-01-10T09:00:00,SYSTEM,2025-01-10T09:15:00,ADMIN
+1,1,2,102,20,MAT003,Red Bricks,3000,NOS,8,0,5,1000,2000,Open,2025-01-10T09:05:00,SYSTEM,2025-01-10T09:20:00,ADMIN
+2,2,3,103,10,MAT002,Cement Grade-43,200,BAG,350,0,18,50,150,Open,2025-01-12T10:00:00,SYSTEM,2025-01-12T10:10:00,ADMIN
+2,2,4,104,20,MAT001,Steel Rod 8mm,300,KG,120,5,18,0,300,Open,2025-01-12T10:05:00,SYSTEM,2025-01-12T10:15:00,ADMIN
+3,1,5,105,10,MAT003,Red Bricks,4000,NOS,8,0,5,4000,0,FullyReceived,2025-01-15T11:00:00,SYSTEM,2025-01-15T11:30:00,ADMIN

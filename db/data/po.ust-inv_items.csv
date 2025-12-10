@@ -1,0 +1,6 @@
+ID,inv_item_id,inv_item_header,inv_item_poitem,inv_item_gr_item,inv_item_quantity,inv_item_uom_uom,inv_item_net_price,inv_item_discount,inv_item_gst,inv_item_netamt,inv_item_totalamt,inv_item_taxamt,createdAt,createdBy,modifiedAt,modifiedBy
+1,INVI-001,INVH-001,POI-001,GRI-001,50,EA,1000,5,18,47500,56050,8550,2025-01-10 10:30:00,vinod,2025-01-10 10:45:00,vinod
+2,INVI-002,INVH-001,POI-002,GRI-002,20,EA,1500,10,18,27000,31860,4860,2025-01-10 11:00:00,vinod,2025-01-10 11:20:00,manager1
+3,INVI-003,INVH-002,POI-003,GRI-003,80,EA,900,0,18,72000,84960,12960,2025-01-12 15:00:00,admin,2025-01-12 15:20:00,supervisor
+4,INVI-004,INVH-004,POI-004,GRI-004,40,EA,700,5,18,26600,31388,4788,2025-01-18 16:00:00,vinod,2025-01-18 16:20:00,admin
+5,INVI-005,INVH-005,POI-005,GRI-005,100,EA,950,0,18,95000,112100,17100,2025-01-25 15:50:00,vinod,2025-01-25 16:10:00,manager3
